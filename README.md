@@ -11,4 +11,4 @@ Matplotlib,
 Statsmodels,
 Scipy,
 Pygeocoder,
-Reverse_geocoder,
+Reverse_geocoder.
