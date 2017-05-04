@@ -5,10 +5,10 @@ http://www.metoffice.gov.uk/climatechange/science/monitoring/ukcp09/download/mon
 Time Series .csv data can be obtained from: http://www.metoffice.gov.uk/climatechange/science/monitoring/ukcp09/download/monthly/time_series.html
 
 Required libraries:
-numPy
-Pandas
-Matplotlib
-Statsmodels
-Scipy
-Pygeocoder
-Reverse_geocoder
+numPy,
+Pandas,
+Matplotlib,
+Statsmodels,
+Scipy,
+Pygeocoder,
+Reverse_geocoder,
